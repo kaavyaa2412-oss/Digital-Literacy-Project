@@ -4,6 +4,7 @@
 - Name: Kavya Sharma
 - Branch: CSE
 - Year: 1st Year
+- Course Code : CSE0001
 
 ---
 
@@ -94,4 +95,6 @@ task-4-email-etiquette/
 task-5-cybercrime/  
 report/
 
-- GitHub Profile : 
+## Link
+- GitHub Profile : https://github.com/kaavyaa2412-oss/Kavya-Sharma
+- Quiz : https://docs.google.com/forms/d/e/1FAIpQLSdeZajy1lBRNdC17skgNcpNrXRH01QbgMyStAFkL3-G81b-eQ/viewform?usp=dialog
